@@ -1,9 +1,5 @@
 # AttainU-Test
 
-## CODING CHALLENGE 1 
-
-For coding challenge 1 i.e. strtointchallenge run this `file`![here](../attainu-test/strtointchallenge/strtoint.js)
-
 ## Assignment 
 
 ### Backend 
